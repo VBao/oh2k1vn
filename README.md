@@ -3,7 +3,7 @@
   <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 Công nghệ và Công cụ 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -35,7 +35,7 @@
 
 <br>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🔥 Thống kê GitHub 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -49,7 +49,7 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">👽 Tìm tôi ở đâu 👽</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -80,7 +80,8 @@
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default) -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default)
 
 </div>
 
